@@ -136,3 +136,4 @@ dmypy.json
 *.csv
 *.wav
 /datasets
+*.hdf5
