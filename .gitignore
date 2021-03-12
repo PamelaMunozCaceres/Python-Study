@@ -128,6 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+test_file.txt
+test_file2.txt
+
 # datasets
 *.parquet
 *.pkl
