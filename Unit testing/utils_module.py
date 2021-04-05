@@ -14,3 +14,10 @@ def compute_area(a, b) -> float:
     calculate the area of a rectangle
     """
     return float(a) * float(b)
+
+
+def compute_area_triangle(a, b) -> float:
+    """
+    calculate the area of a triangle
+    """
+    pass
